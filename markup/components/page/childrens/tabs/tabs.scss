@@ -21,7 +21,7 @@
         background: #3A49CE;
     }
 
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 767px) {
         margin-bottom: 28px;
         padding: 6px;
     }
@@ -43,7 +43,7 @@
         border-radius: 300px;
         outline: none;
         transition: background-color 0.2s linear, color 0.1s linear;
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 767px) {
             height: 28px;
             font-weight: 600;
             font-size: 14px;
@@ -61,7 +61,7 @@
         svg {
             margin-right: 8px;
             flex-shrink: 0;
-            @media screen and (max-width: 768px) {
+            @media screen and (max-width: 767px) {
                 margin-right: 3px;
                 transform: scale(0.8)
             }
