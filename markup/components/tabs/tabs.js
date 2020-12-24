@@ -1,7 +1,9 @@
 (function () {
-    document.querySelectorAll('.tabs__item').forEach((el, idx) => {
-        el.addEventListener('click', (e) => {
-            document.querySelectorAll('.tabs__item').forEach(el => el.classList.remove('is-active'));
+    document.querySelectorAll('.tabs__item').forEach(function (el, idx) {
+        el.addEventListener('click', function(e) {
+            document.querySelectorAll('.tabs__item').forEach(function(el) {
+                el.classList.remove('is-active')
+            });
             e.target.closest('.tabs__item').classList.add('is-active');
 
             const blockWrapper = document.querySelector('.tabs');
@@ -19,4 +21,4 @@
             }
         })
     })
-})()
+})();
