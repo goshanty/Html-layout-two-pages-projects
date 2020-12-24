@@ -1,2 +1,15 @@
 mixin page-registration()
-    div registration page
+    div.registration-page
+        img(src="static/img/general/logo.png")
+        p.title <b>Введите код,</b><br/> полученный в собщении
+        .inputs
+            input(type="text" autofocus maxlength="1")
+            input(type="text" maxlength="1")
+            input(type="text" maxlength="1")
+            input(type="text" maxlength="1")
+            input(type="text" maxlength="1")
+            input(type="text" maxlength="1")
+        a(href="#").check_code Проверить код
+        a(href="#").send_code Отправить код
+        button.send_to_the_email На электронную почту
+        button.send_to_phone_number По номеру телефона

@@ -2,10 +2,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     background: #F6FEFF;
-    padding-top: 64px;
+    &.page {
+        padding-top: 64px;
 
-    @media screen and (max-width: 768px) {
-        padding-top: 32px;
+        @media screen and (max-width: 768px) {
+            padding-top: 32px;
+        }
     }
 
     .page__wrapper {
