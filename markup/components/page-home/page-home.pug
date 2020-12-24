@@ -1,5 +1,12 @@
+include ../table/table.pug
+
 mixin page-home()
     include ../tabs/tabs.pug
-    include ../table/table.pug
+    .table-wrapper.is-active 1
+        +table()
+    .table-wrapper 2
+        +table()
+    .table-wrapper 3
+        +table()
     include ../additional/additional.pug
     include ../footer/footer.pug

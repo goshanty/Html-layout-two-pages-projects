@@ -2,7 +2,7 @@
     flex-basis: calc(100% / 5);
     box-sizing: border-box;
     padding-left: 32px;
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1000px) {
         padding-left: 0;
         flex-basis: calc(100% / 2);
     }
@@ -15,12 +15,17 @@
 
     &:nth-child(3) {
         padding-left: 70px;
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1000px) {
             padding-left: 0;
         }
     }
 }
-
+.table-wrapper {
+    display: none;
+    &.is-active {
+        display: block;
+    }
+}
 .table {
     background: #FFFFFF;
     box-shadow: 0px 9px 20px rgba(0, 0, 0, 0.15);
@@ -28,7 +33,7 @@
     margin-bottom: 32px;
     padding: 32px 0px 24px;
     box-sizing: border-box;
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1000px) {
         padding: 0;
         background: transparent;
         box-shadow: none;
@@ -45,7 +50,7 @@
         margin-left: 32px;
         margin-right: 32px;
         margin-bottom: 8px;
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1000px) {
             display: none;
         }
 
@@ -67,7 +72,7 @@
         margin-left: 32px;
         margin-right: 32px;
         font-size: 16px;
-        @media screen and (max-width: 1200px) {
+        @media screen and (max-width: 1000px) {
             margin-left: 0;
             margin-right: 0;
             background: #FFFFFF;
@@ -83,14 +88,13 @@
                 width: 50%;
             }
         }
-        @media screen and (max-width: 1200px) {
-
+        @media screen and (max-width: 670px) {
             flex-basis: 100%;
         }
 
         .mob-title {
             display: none;
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 font-size: 13px;
                 line-height: 18px;
                 letter-spacing: 0.05em;
@@ -104,7 +108,7 @@
 
         &:not(:last-child) {
             border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 border-bottom: none;
             }
         }
@@ -116,7 +120,7 @@
         &__title {
             font-weight: bold;
             line-height: 22 / 16 + 0;
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 border-bottom: 1px solid rgba(0, 0, 0, .2);
                 padding-bottom: 16px;
                 margin-bottom: 16px;
@@ -125,7 +129,7 @@
         }
 
         &__time-of-medication {
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 border-bottom: 1px solid rgba(0, 0, 0, .2);
                 padding-bottom: 16px;
                 margin-bottom: 16px;
@@ -152,7 +156,7 @@
                     width: 100px;
                     justify-content: flex-end;
                     padding-right: 6px;
-                    @media screen and (max-width: 1200px) {
+                    @media screen and (max-width: 1000px) {
                         display: none;
                     }
 
@@ -174,13 +178,13 @@
         }
 
         &__way_of_receiving {
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 text-align: right;
             }
         }
 
         &__comment {
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 display: none;
             }
         }
