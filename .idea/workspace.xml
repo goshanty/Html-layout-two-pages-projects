@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a61e38b2-7abf-4af5-8e10-73a6b7f29781" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="nfp8h6th" />
+  </component>
+  <component name="ProjectId" id="1m67PyHP7YpgSKgq0ZlKISKAFej" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\components\page" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\components\page\childrens\tabs\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\components" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\components\page-empty" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\static\img\general" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\alex\Html-layout-two-pages-projects\markup\components\page\registration-page" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a61e38b2-7abf-4af5-8e10-73a6b7f29781" name="Default Changelist" comment="" />
+      <created>1608802167092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608802167092</updated>
+      <workItem from="1608802169788" duration="14778000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1608802328893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608802328893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1608802335510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608802335510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="basic template">
+      <created>1608802951415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608802951415</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add top tabs">
+      <created>1608804694012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608804694012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add media queries and animations">
+      <created>1608805428954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608805428954</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add table, footer, additional info">
+      <created>1608812532071</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608812532071</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add empty result page">
+      <created>1608813328585</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608813328585</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactoring">
+      <created>1608813987820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608813987820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="page registration">
+      <created>1608816028495</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816028495</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add ie support">
+      <created>1608816879603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816879603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix">
+      <created>1608816943908</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816943908</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add build">
+      <created>1608817051094</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608817051094</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="basic template" />
+    <MESSAGE value="add top tabs" />
+    <MESSAGE value="add media queries and animations" />
+    <MESSAGE value="add table, footer, additional info" />
+    <MESSAGE value="add empty result page" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="page registration" />
+    <MESSAGE value="add ie support" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="add build" />
+    <option name="LAST_COMMIT_MESSAGE" value="add build" />
+  </component>
+</project>
