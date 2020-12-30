@@ -48,7 +48,7 @@ module.exports = {
     "devPath": "./dev/",
     "buildPath": "./builds/",
     "useBuildVersioning": false,
-    "useArchiver": false,
+    "useArchiver": true,
     "ulimit": 4096,
     "templater": "pug",
     "cssPreprocessor": "scss",
