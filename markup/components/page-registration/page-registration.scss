@@ -9,6 +9,9 @@
 
     img {
         margin-bottom: 61px;
+        @media screen and (max-width: 500px) {
+            margin-bottom: 15px;
+        }
     }
 
     .title {
@@ -18,13 +21,18 @@
         text-align: center;
         font-weight: 400;
         margin-bottom: 36px;
+        @media screen and (max-width: 500px) {
+            font-size: 18px;
+        }
     }
 
 
     .inputs {
         display: flex;
         margin-bottom: 16px;
-
+        @media screen and (max-width: 500px) {
+            margin-bottom: 10px;
+        }
         input {
             width: 45px;
             height: 64px;
@@ -35,7 +43,12 @@
             outline: none;
             border: 1px solid transparent;
             text-align: center;
-
+            display: block;
+            @media screen and (max-width: 500px) {
+                width: 35px;
+                height: 54px;
+                margin: 0px 4px;
+            }
             &:focus {
                 border-color: #27C1D4;
             }
@@ -62,7 +75,9 @@
         text-transform: uppercase;
         color: #000000;
         opacity: 0.5;
-
+        @media screen and (max-width: 500px) {
+            margin-top: 15px;
+        }
         &:hover {
             text-decoration: underline;
         }
